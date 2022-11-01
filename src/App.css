@@ -1,0 +1,37 @@
+.main{
+  background-color: rgba(212, 207, 207, 0.822);
+
+  width: 450px;
+  margin-left: 420px;
+  margin-top: 170px;
+}
+input[type=text] {
+  font-size: 24px;
+  box-sizing: border-box;
+}
+
+.App-header {
+  background-color: #e4e7ee;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+button{
+  margin:8px;
+  margin-right: 1px;
+  margin-top: 1px;
+  background-color: rgb(74, 74, 206);
+  color: #eef6f8;
+  border-color: rgb(74, 74, 206);
+  height:30px;
+  width:100px;
+}
+input{
+  width:320px;
+}
